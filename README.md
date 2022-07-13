@@ -1,3 +1,0 @@
-# westwood
-redalert
-nada
